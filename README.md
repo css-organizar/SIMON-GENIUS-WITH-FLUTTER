@@ -48,7 +48,7 @@ Pretendo terminar a implementação dele com as seguintes funcionalidades:
 
 # Agradecimento
 
-Gostaria de agradecer a ajuda dos amigos Jacob Moura e Savio Serra que me ajudaram na resolução de alguns problemas que enfrentei no meio do desenvolvimento o que contribuiu muito para a finalização desta primeira etapa.
+Gostaria de agradecer a ajuda dos amigos Jacob Moura e Savio Serra que me ajudaram na resolução de alguns problemas que enfrentei no meio do desenvolvimento o que contribuiu muito para a finalização desta primeira etapa e ao grande Deivão que me ajudou na finalização com ajustes da layout e organização do projeto.
   
 # MIT License
 
