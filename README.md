@@ -44,7 +44,7 @@ Pretendo terminar a implementação dele com as seguintes funcionalidades:
 * Inclusão de jogo por desafios e níveis (Tipo o esquema de fases dos atuais games do mercado)
 * Possibilidade de mais layouts do board do game com formatos diferenciados (Ex: Quadrado, triângulo, estrela, etc...)
 
-<img src="https://github.com/claudneysessa/imagens/blob/master/genius-full-dev.png?raw=true"></img>
+<img src="https://github.com/claudneysessa/imagens/blob/master/img_genius_dev.png?raw=true"></img>
 
 # Agradecimento
 
